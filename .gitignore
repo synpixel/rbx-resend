@@ -1,0 +1,15 @@
+# Project place file
+/rbx-resend.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Luau sourcemap
+/sourcemap.json
+
+# Wally packages
+/Packages
+
+# Build
+/build

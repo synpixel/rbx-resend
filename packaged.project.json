@@ -1,0 +1,9 @@
+{
+  "name": "rbx-resend",
+  "tree": {
+    "$path": "Packages",
+    "Resend": {
+      "$path": "src"
+    }
+  }
+}
